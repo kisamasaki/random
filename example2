@@ -1,0 +1,4 @@
+string.ascii_letters
+'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
+string.digits
+'0123456789'
